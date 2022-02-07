@@ -52,7 +52,7 @@ module.exports = {
           items: [
             {
               label: "Maintained by Frontside",
-              href: "https://fronside.com/",
+              href: "https://fronstide.com/",
             },
           ]
         },
@@ -61,7 +61,7 @@ module.exports = {
           items: [
             {
               label: "Interactors",
-              href: "https://frontside.com/effection",
+              href: "https://frontside.com/interactors",
             },
             {
               label: "Bigtest",
